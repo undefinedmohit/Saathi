@@ -167,6 +167,6 @@ MIT License — free to use, modify, and share.
 
 **Built with ☕ and late-night debugging by Mohit Yadav**
 
-*Ek developer, ek Saathi, aur bahut saara Ollama.* 🚀
+*Ek developer, ek Saathi!!.* 🚀
 
 </div>
