@@ -2,6 +2,7 @@
 
 # 🤖 Saathi
 
+
 ### Your AI Coding Companion — Watches. Thinks. Speaks.
 
 *Ek AI jo tumhare saath baithkar code karta hai — real-time suggestions, seedha voice mein.*
