@@ -88,7 +88,7 @@ cd saathi
 ollama serve
 ```
 
-In a new terminal tab:
+In a new terminal tab: 
 
 ```bash
 ollama pull codellama:7b
